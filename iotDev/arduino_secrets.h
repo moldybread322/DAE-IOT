@@ -1,0 +1,7 @@
+#ifndef ARDUINO_SECRETS_H
+#define ARDUINO_SECRETS_H
+
+#define SECRET_SSID "SECRET_DAE-WIRELESS"
+#define SECRET_OPTIONAL_PASS "WelcometoDAE"
+
+#endif
